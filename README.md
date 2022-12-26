@@ -7,6 +7,6 @@ This is an abstraction of [Goto Hitori](https://bocchi.rocks/character/hitori.ht
 
 It includes the original **svg** file and a **PNG** render.     
 
-Pull request for different formats welcome!    
+Pull request welcome!    
 
 (c) 2022 はまじあき／芳文社・アニプレックス,PenguinCabinet
